@@ -27,7 +27,7 @@ This project focuses on analyzing sales data to uncover meaningful business insi
 - Visual representation of KPIs such as sales, profit, and product performance  
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+Screenshot 2026-03-28 153937.png
 
 ## 🚀 Project Files
 - Sales_Data_Analysis.xlsx
